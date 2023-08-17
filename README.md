@@ -1,5 +1,5 @@
 ![](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-Hi 👋 My name is Yousif Ghazi
+Yousif Ghazi
 =============================
 
 Front-end web developer
